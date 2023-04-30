@@ -1,0 +1,57 @@
+C:\Users\kyama\source\repos\Grading system\Grading system\bin\Debug\net5.0-windows\Grading system.exe
+C:\Users\kyama\source\repos\Grading system\Grading system\bin\Debug\net5.0-windows\Grading system.deps.json
+C:\Users\kyama\source\repos\Grading system\Grading system\bin\Debug\net5.0-windows\Grading system.runtimeconfig.json
+C:\Users\kyama\source\repos\Grading system\Grading system\bin\Debug\net5.0-windows\Grading system.runtimeconfig.dev.json
+C:\Users\kyama\source\repos\Grading system\Grading system\bin\Debug\net5.0-windows\Grading system.dll
+C:\Users\kyama\source\repos\Grading system\Grading system\bin\Debug\net5.0-windows\ref\Grading system.dll
+C:\Users\kyama\source\repos\Grading system\Grading system\bin\Debug\net5.0-windows\Grading system.pdb
+C:\Users\kyama\source\repos\Grading system\Grading system\obj\Debug\net5.0-windows\Grading system.vbproj.AssemblyReference.cache
+C:\Users\kyama\source\repos\Grading system\Grading system\obj\Debug\net5.0-windows\Grading_system.AverageMarksForm.resources
+C:\Users\kyama\source\repos\Grading system\Grading system\obj\Debug\net5.0-windows\Grading system.vbproj.GenerateResource.cache
+C:\Users\kyama\source\repos\Grading system\Grading system\obj\Debug\net5.0-windows\Grading system.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kyama\source\repos\Grading system\Grading system\obj\Debug\net5.0-windows\Grading system.AssemblyInfoInputs.cache
+C:\Users\kyama\source\repos\Grading system\Grading system\obj\Debug\net5.0-windows\Grading system.AssemblyInfo.vb
+C:\Users\kyama\source\repos\Grading system\Grading system\obj\Debug\net5.0-windows\Grading system.vbproj.CoreCompileInputs.cache
+C:\Users\kyama\source\repos\Grading system\Grading system\obj\Debug\net5.0-windows\Grading system.dll
+C:\Users\kyama\source\repos\Grading system\Grading system\obj\Debug\net5.0-windows\ref\Grading system.dll
+C:\Users\kyama\source\repos\Grading system\Grading system\obj\Debug\net5.0-windows\Grading system.pdb
+C:\Users\kyama\source\repos\Grading system\Grading system\obj\Debug\net5.0-windows\Grading system.genruntimeconfig.cache
+C:\Users\kyama\source\repos\Grading system\Grading system\obj\Debug\net5.0-windows\Grading_system.PayrollForm.resources
+E:\Grading system\Grading system\obj\Debug\net5.0-windows\Grading system.dll
+E:\Grading system\Grading system\obj\Debug\net5.0-windows\ref\Grading system.dll
+E:\Grading system\Grading system\obj\Debug\net5.0-windows\Grading system.pdb
+E:\Grading system\Grading system\bin\Debug\net5.0-windows\Grading system.exe
+E:\Grading system\Grading system\bin\Debug\net5.0-windows\Grading system.deps.json
+E:\Grading system\Grading system\bin\Debug\net5.0-windows\Grading system.runtimeconfig.json
+E:\Grading system\Grading system\bin\Debug\net5.0-windows\Grading system.runtimeconfig.dev.json
+E:\Grading system\Grading system\bin\Debug\net5.0-windows\Grading system.dll
+E:\Grading system\Grading system\bin\Debug\net5.0-windows\ref\Grading system.dll
+E:\Grading system\Grading system\bin\Debug\net5.0-windows\Grading system.pdb
+E:\Grading system\Grading system\obj\Debug\net5.0-windows\Grading system.vbproj.AssemblyReference.cache
+E:\Grading system\Grading system\obj\Debug\net5.0-windows\Grading_system.AverageMarksForm.resources
+E:\Grading system\Grading system\obj\Debug\net5.0-windows\Grading_system.PayrollForm.resources
+E:\Grading system\Grading system\obj\Debug\net5.0-windows\Grading system.vbproj.GenerateResource.cache
+E:\Grading system\Grading system\obj\Debug\net5.0-windows\Grading system.GeneratedMSBuildEditorConfig.editorconfig
+E:\Grading system\Grading system\obj\Debug\net5.0-windows\Grading system.AssemblyInfoInputs.cache
+E:\Grading system\Grading system\obj\Debug\net5.0-windows\Grading system.AssemblyInfo.vb
+E:\Grading system\Grading system\obj\Debug\net5.0-windows\Grading system.vbproj.CoreCompileInputs.cache
+E:\Grading system\Grading system\obj\Debug\net5.0-windows\Grading system.genruntimeconfig.cache
+C:\Users\Brian\source\repos\Grading system\Grading system\bin\Debug\net5.0-windows\Grading system.exe
+C:\Users\Brian\source\repos\Grading system\Grading system\bin\Debug\net5.0-windows\Grading system.deps.json
+C:\Users\Brian\source\repos\Grading system\Grading system\bin\Debug\net5.0-windows\Grading system.runtimeconfig.json
+C:\Users\Brian\source\repos\Grading system\Grading system\bin\Debug\net5.0-windows\Grading system.runtimeconfig.dev.json
+C:\Users\Brian\source\repos\Grading system\Grading system\bin\Debug\net5.0-windows\Grading system.dll
+C:\Users\Brian\source\repos\Grading system\Grading system\bin\Debug\net5.0-windows\ref\Grading system.dll
+C:\Users\Brian\source\repos\Grading system\Grading system\bin\Debug\net5.0-windows\Grading system.pdb
+C:\Users\Brian\source\repos\Grading system\Grading system\obj\Debug\net5.0-windows\Grading system.vbproj.AssemblyReference.cache
+C:\Users\Brian\source\repos\Grading system\Grading system\obj\Debug\net5.0-windows\Grading_system.AverageMarksForm.resources
+C:\Users\Brian\source\repos\Grading system\Grading system\obj\Debug\net5.0-windows\Grading_system.PayrollForm.resources
+C:\Users\Brian\source\repos\Grading system\Grading system\obj\Debug\net5.0-windows\Grading system.vbproj.GenerateResource.cache
+C:\Users\Brian\source\repos\Grading system\Grading system\obj\Debug\net5.0-windows\Grading system.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brian\source\repos\Grading system\Grading system\obj\Debug\net5.0-windows\Grading system.AssemblyInfoInputs.cache
+C:\Users\Brian\source\repos\Grading system\Grading system\obj\Debug\net5.0-windows\Grading system.AssemblyInfo.vb
+C:\Users\Brian\source\repos\Grading system\Grading system\obj\Debug\net5.0-windows\Grading system.vbproj.CoreCompileInputs.cache
+C:\Users\Brian\source\repos\Grading system\Grading system\obj\Debug\net5.0-windows\Grading system.dll
+C:\Users\Brian\source\repos\Grading system\Grading system\obj\Debug\net5.0-windows\ref\Grading system.dll
+C:\Users\Brian\source\repos\Grading system\Grading system\obj\Debug\net5.0-windows\Grading system.pdb
+C:\Users\Brian\source\repos\Grading system\Grading system\obj\Debug\net5.0-windows\Grading system.genruntimeconfig.cache
